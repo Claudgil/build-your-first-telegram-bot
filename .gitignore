@@ -1,0 +1,43 @@
+# 🔐 Entornos virtuales
+.venv/
+venv/
+env/
+
+# 🔑 Variables de entorno
+.env
+
+# 🐍 Archivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧪 Archivos temporales
+*.log
+*.tmp
+
+# 🧠 VS Code / editores
+.vscode/
+.idea/
+
+# 🍎 MacOS
+.DS_Store
+
+# 🐧 Linux
+*.swp
+
+# 🪟 Windows
+Thumbs.db
+
+# 📦 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🔍 coverage / testing
+.coverage
+htmlcov/
+
+# 🔒 Archivos sensibles (por si acaso)
+config.ini
+secrets.json
